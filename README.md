@@ -1,19 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Thakur Katawa
+💻 Computer Science Engineering Student | Java | DSA | Full-Stack Development | AI/ML
 
-<!--
-**thakurkatawa/thakurkatawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student focused on building practical software applications and strengthening my problem-solving skills.
 
-Here are some ideas to get you started:
+I enjoy working with Java, Data Structures & Algorithms, full-stack development, and AI/ML, and I continuously build projects to apply what I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># thakurkatawa GitHub
+🎓 Computer Science Engineering Student
+☕ Strong focus on Java & Object-Oriented Programming
+🧩 Practicing Data Structures & Algorithms
+🌐 Building Full-Stack Web Applications
+🤖 Exploring AI/ML, NLP & Computer Vision
+🔬 Working on AI-based research and software projects
+🚀 Preparing for Software Engineer / Associate Software Engineer roles
 # 💫 About Me:
 🔭 I’m currently working on improving my Java and DSA skills<br><br>👯 I’m looking to collaborate on beginner-friendly projects<br><br>🤝 I’m looking for help with Open Source and Backend-Frontend Development<br><br>🌱 I’m currently learning Spring Boot, SQL, and Machine Learning<br><br>💬 Ask me about Java, Collections, OOP, and DSA<br><br>⚡ Fun fact: I love turning coffee into code ☕💻
 
