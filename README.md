@@ -12,11 +12,9 @@ I enjoy working with Java, Data Structures & Algorithms, full-stack development,
 🤖 Exploring AI/ML, NLP & Computer Vision
 🔬 Working on AI-based research and software projects
 🚀 Preparing for Software Engineer / Associate Software Engineer roles
-# 💫 About Me:
-🔭 I’m currently working on improving my Java and DSA skills<br><br>👯 I’m looking to collaborate on beginner-friendly projects<br><br>🤝 I’m looking for help with Open Source and Backend-Frontend Development<br><br>🌱 I’m currently learning Spring Boot, SQL, and Machine Learning<br><br>💬 Ask me about Java, Collections, OOP, and DSA<br><br>⚡ Fun fact: I love turning coffee into code ☕💻
 
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thakur_katwa/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakur-katawa-0833a0246/)
