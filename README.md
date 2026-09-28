@@ -6,12 +6,12 @@ I'm a Computer Science Engineering student focused on building practical softwar
 I enjoy working with Java, Data Structures & Algorithms, full-stack development, and AI/ML, and I continuously build projects to apply what I learn.
 
 🎓 Computer Science Engineering Student<br>
-☕ Strong focus on Java & Object-Oriented Programming
-🧩 Practicing Data Structures & Algorithms
-🌐 Building Full-Stack Web Applications
-🤖 Exploring AI/ML, NLP & Computer Vision
-🔬 Working on AI-based research and software projects
-🚀 Preparing for Software Engineer / Associate Software Engineer roles
+☕ Strong focus on Java & Object-Oriented Programming<br>
+🧩 Practicing Data Structures & Algorithms<br>
+🌐 Building Full-Stack Web Applications<br>
+🤖 Exploring AI/ML, NLP & Computer Vision<br>
+🔬 Working on AI-based research and software projects<br>
+🚀 Preparing for Software Engineer / Associate Software Engineer roles<br>
 
 
 
