@@ -1,16 +1,16 @@
 👋 Hi, I'm Thakur Katawa
 💻 Computer Science Engineering Student | Java | DSA | Full-Stack Development | AI/ML
 
-I'm a Computer Science Engineering student focused on building practical software applications and strengthening my problem-solving skills.
+I'm a Computer Science Engineering student passionate about software development, problem solving, and building practical applications.
 
-I enjoy working with Java, Data Structures & Algorithms, full-stack development, and AI/ML, and I continuously build projects to apply what I learn.
+I enjoy working with Java, Data Structures & Algorithms, full-stack development, and AI/ML, while continuously improving my technical and problem-solving skills.
 
 🎓 Computer Science Engineering Student<br>
-☕ Strong focus on Java & Object-Oriented Programming<br>
+☕ Focused on Java & Object-Oriented Programming<br>
 🧩 Practicing Data Structures & Algorithms<br>
 🌐 Building Full-Stack Web Applications<br>
 🤖 Exploring AI/ML, NLP & Computer Vision<br>
-🔬 Working on AI-based research and software projects<br>
+🌱 Currently learning Spring Boot, SQL & Machine Learning<br>
 🚀 Preparing for Software Engineer / Associate Software Engineer roles<br>
 
 
