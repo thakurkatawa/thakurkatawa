@@ -10,7 +10,7 @@ I enjoy working with Java, Data Structures & Algorithms, full-stack development,
 🧩 Practicing Data Structures & Algorithms<br>
 🌐 Building Full-Stack Web Applications<br>
 🤖 Exploring AI/ML, NLP & Computer Vision<br>
-🌱 Currently learning Spring Boot, SQL & Machine Learning<br>
+🌱 Currently learning Spring Boot,SQL & Machine Learning<br>
 🚀 Preparing for Software Engineer / Associate Software Engineer roles<br>
 
 
